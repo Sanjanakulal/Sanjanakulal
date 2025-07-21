@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sanjanakulal</h1>
 
-<h3 align="left">Connect with me:https://www.linkedin.com/in/sanjana-8449082a2/</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
