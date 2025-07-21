@@ -9,9 +9,7 @@
   <a href="https://www.linkedin.com/in/sanjana-8449082a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sanjanakulal@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  
   <!-- Add GitHub or other socials if you'd like -->
 </p>
 
