@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00CFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sanjana+Kulal" alt="Typing SVG" />
 </h1>
 
-<!-- Profile Icon (Optional - remove if not needed) -->
-<p align="center">
-  <img src="https://github.com/sanjanakulal/sanjanakulal/assets/your-pfp-path.png" width="200" alt="Profile Avatar" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</p>
-
 <!-- Connect with Me -->
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
