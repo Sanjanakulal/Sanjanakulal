@@ -2,7 +2,7 @@
 <link href="https://cdn.jsdelivr.net/npm/[email protected]/dist/tailwind.min.css" rel="stylesheet"/>
 
 <div align="center">
-  <h1 class="text-4xl font-bold text-blue-600 mb-4">Hi, I'm Sanjana</h1>
+  <h1 class="text-4xl font-bold text-blue-600 mb-4">Hi, I'm Sanjana Kulal</h1>
 </div>
 
 <h3 align="center" class="text-xl font-semibold mt-0">🌐 Connect with Me</h3>
@@ -19,8 +19,8 @@
   <!-- skillicons.dev: editable list via ?i= parameter -->
   <a href="https://skillicons.dev" target="_blank">
     <img
-      src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,tailwindcss"
-      alt="Skills: HTML, CSS, JS, Python, Java, MySQL, Tailwind"
+      src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,mysql,tailwindcss"
+      alt="Skills: HTML, CSS, JS, Python, Java, C, C++, MySQL, Tailwind"
       class="max-w-full h-12"
     />
   </a>
