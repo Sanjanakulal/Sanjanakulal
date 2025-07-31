@@ -16,11 +16,10 @@
 
 <h3 align="center" class="text-xl font-semibold mt-0">🛠️ Languages & Tools</h3>
 <p align="center" class="mt-2 mb-6">
-  <!-- skillicons.dev: editable list via ?i= parameter -->
   <a href="https://skillicons.dev" target="_blank">
     <img
-      src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,mysql,tailwindcss"
-      alt="Skills: HTML, CSS, JS, Python, Java, C, C++, MySQL, Tailwind"
+      src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,mysql,tailwindcss,react,supabase"
+      alt="Skills: HTML, CSS, JS, Python, Java, C, C++, MySQL, Tailwind, React, Supabase"
       class="max-w-full h-12"
     />
   </a>
