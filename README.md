@@ -1,43 +1,35 @@
-<!-- README.md -->
+<!-- Tailwind CSS CDN -->
+<link href="https://cdn.jsdelivr.net/npm/[email protected]/dist/tailwind.min.css" rel="stylesheet"/>
 
-<!-- Animated Gradient Name Heading -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00CFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sanjana+Kulal" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <h1 class="text-4xl font-bold text-blue-600 mb-4">Hi, I'm Sanjana Kulal</h1>
+</div>
 
-<!-- Connect with Me -->
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanjana-8449082a2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<h3 align="center" class="text-xl font-semibold mt-0">🌐 Connect with Me</h3>
+<p align="center" class="mt-2 mb-6">
+  <a href="https://www.linkedin.com/in/sanjana-8449082a2/" target="_blank"
+     class="inline-block hover:opacity-80 transition-opacity">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="LinkedIn"/>
   </a>
 </p>
 
----
-
-<!-- Tech Stack -->
-<h3 align="center">🛠️ Languages & Tools</h3>
-<p align="center">
-  <!-- Web Technologies -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>
-  
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+<h3 align="center" class="text-xl font-semibold mt-0">🛠️ Languages & Tools</h3>
+<p align="center" class="mt-2 mb-6">
+  <!-- skillicons.dev: editable list via ?i= parameter -->
+  <a href="https://skillicons.dev" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,tailwindcss"
+      alt="Skills: HTML, CSS, JS, Python, Java, MySQL, Tailwind"
+      class="max-w-full h-12"
+    />
+  </a>
 </p>
 
----
-
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjanakulal&show_icons=true&theme=gradient&border_radius=10&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanakulal&layout=compact&theme=gradient&border_radius=10" height="180"/>
+<h3 align="center" class="text-xl font-semibold mt-0">📊 GitHub Stats</h3>
+<p align="center" class="mt-4 flex flex-wrap justify-center gap-4">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjanakulal&show_icons=true&theme=gradient&border_radius=10&count_private=true"
+       alt="GitHub Stats" class="max-w-full"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanakulal&layout=compact&theme=gradient&border_radius=10"
+       alt="Top Languages" class="max-w-full"/>
 </p>
