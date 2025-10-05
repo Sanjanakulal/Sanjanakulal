@@ -3,9 +3,11 @@
 
 <div align="center">
   <h1 class="text-4xl font-bold text-blue-600 mb-4">Hi, I'm Sanjana</h1>
- <p class="text-lg text-gray-700 mb-4 max-w-xl">
-  Curious, motivated, and always eager to learn. I enjoy exploring new ideas, understanding different perspectives, and growing both personally and professionally.
-</p>
+ <ul class="text-lg text-gray-700 mb-4 max-w-xl space-y-2">
+  <li>🌱 Curious and motivated, always eager to learn and explore new ideas.</li>
+  <li>💡 Enjoys discovering different perspectives and growing personally and professionally.</li>
+  <li>✨ Values creativity, challenges, and meaningful experiences.</li>
+</ul>
   
 </div>
 
