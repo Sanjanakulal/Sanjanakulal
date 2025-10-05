@@ -3,6 +3,12 @@
 
 <div align="center">
   <h1 class="text-4xl font-bold text-blue-600 mb-4">Hi, I'm Sanjana</h1>
+  <p class="text-lg text-gray-700 mb-4 max-w-xl">
+  Passionate about learning and building meaningful solutions.  
+  🌱 Open to challenges and continuous growth.  
+  💡 Focused on problem-solving and improvement.
+</p>
+  
 </div>
 
 <h3 align="center" class="text-xl font-semibold mt-0">🌐 Connect with Me</h3>
