@@ -30,10 +30,10 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjanakulal&show_icons=true&theme=tokyonight"
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjanakulal&show_icons=true&theme=tokyonight"
        alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanakulal&layout=compact&theme=tokyonight"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanakulal&layout=compact&theme=tokyonight"
        alt="Top Languages" />
 </p>
 
