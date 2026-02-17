@@ -1,5 +1,3 @@
-<!-- Tailwind CSS CDN -->
-<link href="https://cdn.jsdelivr.net/npm/[email protected]/dist/tailwind.min.css" rel="stylesheet"/>
 
 <div align="center">
   <h1 class="text-4xl font-bold text-blue-600 mb-4">Hi, I'm Sanjana</h1>
