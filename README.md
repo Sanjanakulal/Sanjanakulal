@@ -28,10 +28,12 @@
   </a>
 </p>
 
-<h3 align="center" class="text-xl font-semibold mt-0">📊 GitHub Stats</h3>
-<p align="center" class="mt-4 flex flex-wrap justify-center gap-4">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjanakulal&show_icons=true&theme=gradient&border_radius=10&count_private=true"
-       alt="GitHub Stats" class="max-w-full"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanakulal&layout=compact&theme=gradient&border_radius=10"
-       alt="Top Languages" class="max-w-full"/>
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjanakulal&show_icons=true&theme=tokyonight"
+       alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanakulal&layout=compact&theme=tokyonight"
+       alt="Top Languages" />
 </p>
+
