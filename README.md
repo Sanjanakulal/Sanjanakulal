@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1 class="text-4xl font-bold text-blue-600 mb-4">Hi, I'm Sanjana</h1>
   <p class="text-lg text-gray-700 mb-4 max-w-xl">
@@ -34,4 +33,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanakulal&layout=compact&theme=tokyonight"
        alt="Top Languages" />
 </p>
-
