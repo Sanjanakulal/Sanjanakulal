@@ -26,7 +26,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <!-- <img src="https://streak-stats.demolab.com/?user=sanjanakulal&theme=tokyonight" /> -->
-  <img src="https://streak-stats.demolab.com?user=sanjanakulal&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=sanjanakulal&theme=tokyonight&cache_seconds=300" />
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjanakulal&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjanakulal&theme=tokyonight&cache_seconds=300" />
 </p>
